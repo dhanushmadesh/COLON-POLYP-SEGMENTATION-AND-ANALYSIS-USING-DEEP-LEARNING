@@ -64,7 +64,7 @@ Since this is a pixel-wise segmentation task, evaluation is done at the **pixel 
 
 ### 🔹 Intersection over Union (IoU)
 
-![Formula:](IOU.png)
+![Formula](IOU.png)
 
 - Measures overlap between predicted mask and ground truth
 - Higher IoU ⇒ better boundary alignment
@@ -73,7 +73,7 @@ Since this is a pixel-wise segmentation task, evaluation is done at the **pixel 
 
 ### 🔹 F1 Score (Dice Coefficient)
 
-![Formula:](F1.png)
+![Formula](F1.png)
 
 - Balances false positives and false negatives
 - Well suited for **medical image class imbalance**
