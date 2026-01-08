@@ -50,7 +50,7 @@ Multiple public colonoscopy datasets were merged to improve robustness.
 
 ### Dataset Split
 
-![Dataset Split](DATASET_SPLIT_INFORMATION .png)
+![Dataset Split](DATASET_SPLIT_INFORMATION.png)
 
 
 - Split ratio: **80% Train / 10% Validation / 10% Test**
