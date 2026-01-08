@@ -93,7 +93,7 @@ These scores confirm **high segmentation accuracy** and **strong generalization*
 
 ## Confusion Matrix (Test Set)
 
-![Confusion Matrix](EVALUATION_RESULTS\confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 The pixel-wise confusion matrix shows detailed prediction behavior:
 - High **True Positives** → accurate polyp detection
