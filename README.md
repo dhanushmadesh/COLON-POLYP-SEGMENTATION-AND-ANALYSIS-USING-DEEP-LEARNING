@@ -64,9 +64,7 @@ Since this is a pixel-wise segmentation task, evaluation is done at the **pixel 
 
 ### 🔹 Intersection over Union (IoU)
 
-\[
-IoU = \frac{TP}{TP + FP + FN}
-\]
+![Formula:](IOU.png)
 
 - Measures overlap between predicted mask and ground truth
 - Higher IoU ⇒ better boundary alignment
@@ -75,9 +73,7 @@ IoU = \frac{TP}{TP + FP + FN}
 
 ### 🔹 F1 Score (Dice Coefficient)
 
-\[
-F1 = \frac{2 \times TP}{2 \times TP + FP + FN}
-\]
+![Formula:](F1.png)
 
 - Balances false positives and false negatives
 - Well suited for **medical image class imbalance**
